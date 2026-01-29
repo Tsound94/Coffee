@@ -16,6 +16,7 @@ struct ContentView: View {
     var body: some View {
         
         Text("Cannelle")
+        Text("Hi my name is TIm")
             .fontDesign(.serif)
             .font(.largeTitle.weight(.bold))
             .foregroundColor(.black)
